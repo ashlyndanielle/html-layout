@@ -1,0 +1,35 @@
+.top-section {
+    height: 175px;
+    width: 100%;
+    background:#464545;
+}
+
+.left {
+    float: left;
+    width: 15%;
+    background: lightgray;
+    height: 800px;
+}
+
+.middle {
+    float: left;
+    width: 70%;
+    height: 700px;
+    background: white;
+}
+
+
+.right {
+    float: right;
+    width: 15%;
+    background: lightgray;
+    height: 800px;
+}
+
+.bottom-section {
+    float: left;
+
+    width: 70%;
+    height: 100px;
+    background: black;
+}
